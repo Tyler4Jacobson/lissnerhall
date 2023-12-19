@@ -1,3 +1,4 @@
+theme: jekyll-theme-time-machine
 <!-- omit in toc -->
 # h1
 ## h2
